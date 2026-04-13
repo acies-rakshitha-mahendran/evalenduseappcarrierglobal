@@ -32,7 +32,7 @@ const TopNav: React.FC = () => {
       </div>
       <div style={{ marginLeft: "auto", fontSize: 12, opacity: 0.7 }}>
         <Link to="/build" style={{ color: "inherit", textDecoration: "none" }}>
-          ABC Beverage Co.
+          ABC Corp.
         </Link>
       </div>
     </header>

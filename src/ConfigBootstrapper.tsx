@@ -139,7 +139,7 @@ const SeedLayout: React.FC<{ mode: SeedMode; onSerialized: (json: string) => voi
             color="#0f172a"
           />
           <SubtitleBlock
-            text="Transitioning PET Beverage Packaging for ABC Beverage Co."
+            text="Transitioning PET Beverage Packaging for ABC Corp."
             fontSize={13}
             color="#334155"
           />
